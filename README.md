@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Software ENgineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria.
 
 - :telescope: I’m working as a Software Engineer and contributing to backend and frontend for building softwares and web applications.
 
